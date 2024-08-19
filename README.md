@@ -12,7 +12,7 @@ Sou desenvolvedor com paixão por tecnologia e programação, sempre em busca de
   <img align="center" alt="Thales-FLUTTER" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
 📫 Entre em Contato
-<div> 
+<div style="margin-top: 20px;"> 
   <a href = "mailto:thalesgoncalves3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thalesgoncalves1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thalesgoncalves1/" target="_blank" style="margin-left: 20px;"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
