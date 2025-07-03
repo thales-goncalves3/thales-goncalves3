@@ -15,9 +15,9 @@
 
 ---
 
-## 🛠️ Minhas Tecnologias
+## 🛠️ Tecnologias
 
-- 💙 **Flutter & Dart**  
+- 🟦 **Flutter & Dart**  
 - 🟨 **JavaScript**  
 - 🟦 **HTML5 & CSS3**  
 - 🟪 **Node.js**  
