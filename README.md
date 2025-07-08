@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>Desenvolvedor Full Stack & Mobile</b> <br>
-  Apaixonado por criar soluções inovadoras, com experiência em desenvolvimento web, mobile, integração de APIs e cloud.
 </p>
 
 ---
@@ -10,7 +9,6 @@
 ## 🚀 Sobre mim
 
 - 👨‍💻 Desenvolvedor Full Stack & Mobile
-- 🎯 Foco em eficiência, usabilidade e segurança de sistemas
 - 🎓 Formado em Sistemas para Internet pelo IFSUL 
 
 ---
@@ -45,9 +43,3 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thales-goncalves3&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thales-goncalves3&layout=compact&theme=radical"/>
-</p>
